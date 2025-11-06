@@ -6,4 +6,6 @@ scikit-learn==1.5.2
 matplotlib==3.9.2
 seaborn==0.13.2
 tqdm==4.66.5
+requests==2.32.3
+Pillow==11.0.0
 pathlib==1.0.1
