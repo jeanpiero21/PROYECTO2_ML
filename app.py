@@ -14,8 +14,8 @@ from sklearn.metrics import pairwise_distances
 META_TRAIN = Path("train_metadata_with_clusters.csv")
 META_TEST  = Path("test_metadata_with_clusters.csv")
 
-POSTERS_TRAIN = Path("../DATA_POSTERS/train/posters")
-POSTERS_TEST  = Path("../DATA_POSTERS/test/posters")
+POSTERS_TRAIN = Path("train/posters")
+POSTERS_TEST  = Path("test/posters")
 
 # ============================================================
 # 🧩 FUNCIONES AUXILIARES
